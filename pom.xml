@@ -10,7 +10,7 @@
     
     <groupId>org.webjars</groupId>
     <artifactId>spin-js</artifactId>
-    <version>2.0.0-1</version>
+    <version>2.0.0-2-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>spin.js</name>
     <description>WebJar for spin.js</description>
@@ -41,7 +41,7 @@
         <url>http://github.com/webjars/spin-js</url>
         <connection>scm:git:https://github.com/webjars/spin-js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/spin-js.git</developerConnection>
-        <tag>spin-js-2.0.0-1</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <properties>
